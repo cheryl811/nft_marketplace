@@ -1,0 +1,83 @@
+ethers.utils.formatEther(balance_0.toString())
+ethers.utils.formatEthers(balance_0.toString())
+balance_0
+const balance_0 = await ethers.provider.getBalance(a[0].address)
+const balance = await ethers.provider.getBalance(a[0].address)
+address_0
+const address_0 = a[0].address
+const balance = await ethers.provider.getBalance(a[0].0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266)
+const balance = await ethers.provider.getBalance(a[0],"0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const balance = await ethers.provider.getBalance(a[0].0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266)
+const balance = await ethers.provider.getBalance(a[0].'0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266')
+a[0].address
+const a = await ethers.getSigners()
+feeaccount
+const feeaccount = await market.feeAccount()
+feepercent
+const feepercent = await market.feePercent()
+market
+const market = await ethers.getContractAt("Marketplace","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+await nft_token.symbol()
+await token.symbol()
+await nft_token.tokencount()
+await nft_token.value()
+await nft_token.name()
+await token.name()
+nft_token
+const nft_token = await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const nft_token = awiat ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+feeaccount
+const feeaccount = await market.feeAccount()
+feepercent
+const feepercent = await market.feePercent()
+market
+const market = await ethers.getContractAt("Marketplace","0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512")
+await token.symbol()
+await token.name()
+token.address
+token
+const token = await ethers.getContractAt("NFT","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+await contract.name()
+contract.address
+const name = await contract.name();
+await contract.name.wait()
+await contract.name()
+contract.address
+contract
+const contract=await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const count = await nfttoken.tokenCount()
+const name1 = await nfttoken.name()
+const name = await nfttoken.name()
+console.log(nfttoken)
+console.log(nfttoken.address)
+await nfttoken.name()
+const name = await nfttoken.name()
+console.log(nfttoken.name())
+console.log(nfttoken.name)
+console.log(nfttoken.address)
+token
+console.log(nfttoken)
+const nfttoken = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+console.log(tokencount)
+const tokencount= await contract.tokenCount()
+console.log(tokencount)
+const Name = awiat contract.name()
+const tokencount= await contract.tokenCount()
+const tokenCount= await contract.tokenCount()
+const tokenCount= await contact.tokenCount()
+console.log(contract)
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+const tokencount= await contact.tokenCount()
+console.log(contract)
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+.exit
+console.log(contract)
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+console.log(contract)
+const contract = await ethers.getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract = await ethers getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract await ethers getContractAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contract await ethers getContarctAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
+const contact await ethers getContarctAt("NFT","0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266")
